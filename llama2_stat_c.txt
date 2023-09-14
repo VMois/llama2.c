@@ -1,0 +1,19 @@
+Performance counter stats for './run stories15M.bin -s 100 -n 256 -t 0.5 -i Llama is an animal':
+
+           2081.27 msec task-clock                #    3.476 CPUs utilized          
+              1343      context-switches          #  645.280 /sec                   
+                 4      cpu-migrations            #    1.922 /sec                   
+              2548      page-faults               #    1.224 K/sec                  
+   <not supported>      cycles                                                      
+   <not supported>      instructions                                                
+   <not supported>      branches                                                    
+   <not supported>      branch-misses                                               
+   <not supported>      L1-dcache-loads                                             
+   <not supported>      L1-dcache-load-misses                                       
+   <not supported>      LLC-loads                                                   
+   <not supported>      LLC-load-misses                                             
+
+       0.598816822 seconds time elapsed
+
+       2.035368000 seconds user
+       0.039141000 seconds sys
